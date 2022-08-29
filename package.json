@@ -9,6 +9,7 @@
   "author": "Pedro Anderson",
   "license": "MIT",
   "devDependencies": {
-    "cypress": "^9.6.1"
+    "cypress": "^9.6.1",
+    "mocha-junit-reporter": "^2.0.2"
   }
 }
